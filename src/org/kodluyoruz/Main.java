@@ -11,6 +11,7 @@ public class Main {
     	myStrQueue.add("XCV");
     	myStrQueue.add("KLS");
     	myStrQueue.add("PLK");
+    	myStrQueue.printQueue(myStrQueue);
     	System.out.println(myStrQueue.peek());
     	myStrQueue.pool();
     	System.out.println(myStrQueue.peek());
